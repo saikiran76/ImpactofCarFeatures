@@ -19,5 +19,6 @@ problem. The problem was solved in a way such that, the manufacturers
 can optimize their pricing, spends to increase the business, product
 development decisions to maximize profitability while meeting
 consumer demand.
-242424 Analyzing the Impact Analyzing the Impact Analyzing the Impact of Car Features on of Car Features on of Car Features on Price and Profitability Price and Profitability Price and Profitability Project -07 Project Description :
-252525
+
+Find the jupyter notebook and excel sheets with the drive link :
+https://drive.google.com/drive/folders/1jiJRMFvqsS3mrm0q2BbnXAsS9YmjE2kz?usp=share_link
